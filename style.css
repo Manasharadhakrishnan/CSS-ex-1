@@ -1,0 +1,399 @@
+
+.head{
+    width:100% ; 
+    height: 50px;
+    background-color: blue;
+padding-bottom: 20px;
+}
+
+   .head2{
+    width: 50%;
+    height: 50px;
+    background-color: black;
+  }
+   .head3{
+    width:50%;
+    height: 50px;
+    background-color:yellow;
+    margin-left: 50%;
+    margin-top: -50px;
+  }
+
+  .head4{
+    width:33.33%;
+    height:50px;
+    background-color: #ff0062;
+  
+
+
+  }
+  .head5{
+    width:33.33%;
+    height: 50px;
+    background-color: blueviolet;
+    margin-left:33.33% ;
+    margin-top: -50px;
+    
+
+  }
+   .head6{
+    width:33.33%;
+    height: 50px;
+    background-color: tomato;
+  margin-left:66.66% ;
+  margin-top:-50px ;
+    
+  } 
+  .head7{
+    width: 25%;
+    height: 50px;
+    background-color: yellowgreen;
+  }
+.head8{
+  width: 25%;
+  height:50px;
+  background-color: hsl(22, 64%, 45%);
+  margin-left: 25%;
+  margin-top: -50px;
+}
+ 
+.head9{
+  width: 25%;
+  height:50px;
+  background-color: hsl(330, 100%, 50%);
+  margin-left: 50%;
+  margin-top: -50px; 
+}
+.head10{
+  width: 25%;
+  height:50px;
+  background-color: hsl(224, 100%, 50%);
+  float: right;
+  margin-top: -50px; 
+}
+.head11{
+  width: 20%;
+  height:50px;
+  background-color: red;
+}
+.head12{
+  width: 20%;
+  height:50px;
+  background-color: #0a0909;
+  margin-left: 20%;
+  margin-top: -50px;
+}
+.head13{
+  width: 20%;
+  height:50px;
+  background-color: hsl(357, 74%, 40%);
+  margin-left: 40%;
+  margin-top: -50px;
+}
+.head14{
+  width: 20%;
+  height:50px;
+  background-color: hwb(125 11% 31%);
+  margin-left: 60%;
+  margin-top: -50px;
+}
+.head15{
+  width: 20%;
+  height:50px;
+  background-color: rgb(28, 176, 119);
+  margin-left: 80%;
+  margin-top: -50px;
+}  
+.head16{
+  width: 16.66%;
+  height:50px;
+  background-color:#b31129;
+}  
+.head17{
+  width: 16.66%;
+  height:50px;
+  background-color:hsl(46, 83%, 38%);
+  margin-left: 16.66%;
+  margin-top: -50px;
+}  
+.head18{
+  width: 16.66%;
+  height:50px;
+  background-color:hwb(303 6% 31%);
+  margin-left: 33.32%;
+  margin-top: -50px;
+}  
+.head19{
+  width: 16.66%;
+  height:50px;
+  background-color:#0fb00fa6;
+  margin-left: 49.98%;
+  margin-top: -50px;
+}  
+.head20{
+  width: 16.66%;
+  height:50px;
+  background-color:hsla(263, 84%, 37%, 0.651);
+  margin-left: 66.64%;
+  margin-top: -50px;
+}  
+.head21{
+  width: 16.66%;
+  height:50px;
+  background-color:hwb(125 6% 32% / 0.651);
+  margin-left: 83.3%;
+  margin-top: -50px;
+}  
+.head22{
+  width: 14.28%;
+  height:50px;
+  background-color:hwb(258 4% 60% / 0.651);
+  
+}  
+.head23{
+  width: 14.28%;
+  height:50px;
+  background-color:blue;
+  margin-left: 14.28%;
+  margin-top: -50px;
+}  
+.head24{
+  width: 14.28%;
+  height:50px;
+  background-color:black;
+  margin-left: 28.56%;
+  margin-top: -50px;
+}  
+.head25{
+  width: 14.28%;
+  height:50px;
+  background-color:#c90376;
+  margin-left: 42.84%;
+  margin-top: -50px;
+}  
+.head26{
+  width: 14.28%;
+  height:50px;
+  background-color:#ff0000;
+  margin-left: 57.12%;
+  margin-top: -50px;
+}  
+.head27{
+  width: 14.28%;
+  height:50px;
+  background-color:hsl(103, 100%, 50%);
+  margin-left: 71.4%;
+  margin-top: -50px;
+}  
+.head28{
+  width: 14.28%;
+  height:50px;
+  background-color:hwb(54 0% 0%);
+  margin-left: 85.68%;
+  margin-top: -50px;
+}  
+.head29{
+  width: 12.5%;
+  height:50px;
+  background-color:rgb(255, 0, 191);
+  
+}  
+.head30{
+  width: 12.5%;
+  height:50px;
+  background-color:#15ff00;
+  margin-left: 12.5%;
+  margin-top: -50px;
+  
+}  
+.head31{
+  width: 12.5%;
+  height:50px;
+  background-color:hsl(29, 100%, 50%);
+  margin-left: 25%;
+  margin-top: -50px;
+  
+}  
+.head32{
+  width: 12.5%;
+  height:50px;
+  background-color:hwb(157 0% 0%);
+  margin-left: 37.5%;
+  margin-top: -50px;
+  
+}
+.head33{
+  width: 12.5%;
+  height:50px;
+  background-color:hsl(234, 100%, 50%);
+  margin-left: 50%;
+  margin-top: -50px;
+  
+}    
+.head34{
+  width: 12.5%;
+  height:50px;
+  background-color:hwb(320 0% 0%);
+  margin-left: 62.5%;
+  margin-top: -50px;
+  
+}  
+.head35{
+  width: 12.5%;
+  height:50px;
+  background-color:hwb(263 0% 0%);
+  margin-left: 75%;
+  margin-top: -50px;
+  
+}  
+.head36{
+  width: 12.5%;
+  height:50px;
+  background-color:hwb(9 0% 0%);
+  margin-left: 87.5%;
+  margin-top: -50px;
+  
+}  
+.head37{
+  width: 11.11%;
+  height:50px;
+  background-color:hwb(96 0% 0%);
+}  
+.head38{
+  width: 11.11%;
+  height:50px;
+  background-color:rgb(0, 204, 255);
+  margin-left:11.11%;
+  margin-top: -50px;
+}  
+.head39{
+  width: 11.11%;
+  height:50px;
+  background-color:#00ff4c;
+  margin-left:22.22%;
+  margin-top: -50px;
+}  
+.head40{
+  width: 11.11%;
+  height:50px;
+  background-color:hsl(41, 77%, 32%);
+  margin-left:33.33%;
+  margin-top: -50px;
+}  
+.head41{
+  width: 11.11%;
+  height:50px;
+  background-color:#00ff15;
+  margin-left:44.44%;
+  margin-top: -50px;
+}  
+.head42{
+  width: 11.11%;
+  height:50px;
+  background-color:hsl(78, 100%, 50%);
+  margin-left:55.55%;
+  margin-top: -50px;
+}  
+.head43{
+  width: 11.11%;
+  height:50px;
+  background-color:rgb(0, 204, 255);
+  margin-left:66.66%;
+  margin-top: -50px;
+}  
+.head44{
+  width: 11.11%;
+  height:50px;
+  background-color:#3700ff;
+  margin-left:77.77%;
+  margin-top: -50px;
+}  
+.head45{
+  width: 11.11%;
+  height:50px;
+  background-color:tomato;
+  margin-left:88.88%;
+  margin-top: -50px;
+}  
+.head46{
+  width: 10%;
+  height:50px;
+  background-color:#bb47ff;
+  
+}  
+.head47{
+  width: 10%;
+  height:50px;
+  background-color:hsl(56, 100%, 64%);
+  margin-left: 10%;
+  margin-top: -50px;
+}  
+.head48{
+  width: 10%;
+  height:50px;
+  background-color:#288a10;
+  margin-left: 20%;
+  margin-top: -50px;
+}  
+.head49{
+  width: 10%;
+  height:50px;
+  background-color:hwb(55 3% 82%);
+  margin-left: 30%;
+  margin-top: -50px;
+}  
+.head50{
+  width: 10%;
+  height:50px;
+  background-color:hwb(123 2% 25%);
+  margin-left: 40%;
+  margin-top: -50px;
+} 
+.head51{
+  width: 10%;
+  height:50px;
+  background-color:hwb(239 28% 0%);
+  margin-left: 50%;
+  margin-top: -50px;
+}  
+.head52{
+  width: 10%;
+  height:50px;
+  background-color:hwb(4 28% 0%);
+  margin-left: 60%;
+  margin-top: -50px;
+}  
+.head53{
+  width: 10%;
+  height:50px;
+  background-color:hwb(249 28% 0%);
+  margin-left: 70%;
+  margin-top: -50px;
+}  
+.head54{
+  width: 10%;
+  height:50px;
+  background-color:hwb(56 28% 0%);
+  margin-left: 80%;
+  margin-top: -50px;
+}  
+.head55{
+  width: 10%;
+  height:50px;
+  background-color:#c90376;
+  margin-left: 90%;
+  margin-top: -50px;}
+  
+    
+  
+  
+  
+   
+  
+  
+  
+  
+
+
+
+    
